@@ -1,0 +1,5 @@
+Date,Ticker,Company Name,Open,High,Low,Close,Previous Close,Volume,% Change (Day),Trend Note,trend
+30/01/2026,CRCL,Circle int,66.6,66.91,61.88,63.93,67.55,15.68m,-5.36%,sold off on steady volume with high intraday volatility; short-term bias is bearish.,decrease
+30/01/2026,INTC,Intel,48.98,49.58,45.96,46.47,48.66,114.63m,-4.50%,sold off on steady volume with high intraday volatility; short-term bias is bearish.,decrease
+30/01/2026,SLV,iShares Silver Trust,89.33,92.14,69.12,75.44,105.57,509.44m,-28.54%,sold off on higher volume with high intraday volatility; short-term bias is bearish.,decrease
+30/01/2026,WDC,Western Digital,278.24,283.7,237.58,250.23,278.41,21.65m,-10.12%,sold off on higher volume with high intraday volatility; short-term bias is bearish.,decrease
