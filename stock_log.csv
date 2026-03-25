@@ -35,3 +35,7 @@ Date,Ticker,Company Name,Open,High,Low,Close,Previous Close,Volume,% Change (Day
 23/03/2026,INTC,Intel,44.48,45.46,43.74,44.01,43.87,78.54m,0.32%,rebounded on lighter volume with moderate intraday volatility; short-term bias is neutral.,increase
 23/03/2026,SLV,iShares Silver Trust,61.3,64.11,60.98,62.47,61.52,71.83m,1.54%,rebounded on higher volume with high intraday volatility; short-term bias is neutral.,increase
 23/03/2026,WDC,Western Digital,298.0,316.93,283.16,294.79,293.1,8.87m,0.58%,rebounded on lighter volume with high intraday volatility; short-term bias is neutral.,increase
+24/03/2026,CRCL,Circle int,126.35,127.08,98.31,101.17,126.64,56.38m,-20.11%,sold off on higher volume with high intraday volatility; short-term bias is bearish.,decrease
+24/03/2026,INTC,Intel,43.53,44.31,43.2,44.06,44.01,64.84m,0.11%,rebounded on steady volume with moderate intraday volatility; short-term bias is neutral.,increase
+24/03/2026,SLV,iShares Silver Trust,61.62,63.69,61.27,62.95,62.47,45.12m,0.77%,rebounded on lighter volume with moderate intraday volatility; short-term bias is neutral.,increase
+24/03/2026,WDC,Western Digital,294.52,301.35,280.22,301.05,294.79,7.15m,2.12%,rebounded on lighter volume with high intraday volatility; short-term bias is bullish.,increase
